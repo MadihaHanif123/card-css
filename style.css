@@ -1,0 +1,53 @@
+body{ 
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+ text-transform: capitalize;
+ justify-content: center;
+}
+.one{
+    background-color:rgb(201, 91, 127);
+    outline-style: solid;
+    
+    border-radius: 20px;
+    padding-top: 100px;
+    align-items: center;
+    height: 300px;
+    width: 250px;
+    margin-top: 130px;
+    padding-right: 30px;
+    
+
+}
+
+.child{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin-top: -380px;
+    margin-left: 15px;
+    border-radius: 12px;
+}
+.followers{
+padding-top: 300px;
+text-decoration: overline black;
+}
+
+.paragraph{
+    font-size: 30px;
+    padding-left: 70px;
+    color: purple;
+    font-weight: bold;
+
+}
+.para2{
+padding-left: 40px;
+
+}
+
+.para3{
+    padding-left: 70px;
+}
+.child2{
+    padding-top: 270px;
+}
